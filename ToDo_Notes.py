@@ -55,7 +55,7 @@ class Todo:
             print("Invalid task number!")
 
 
-# Main Program
+
 todo = Todo()
 
 while True:
